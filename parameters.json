@@ -1,0 +1,5 @@
+{
+    "button1":["<input_str1>",["POST"]],
+    "button2":["<input_str2>",["POST"]],
+    "button3":["<input_str3>",["GET","POST"]]
+}
